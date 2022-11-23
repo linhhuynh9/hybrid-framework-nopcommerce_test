@@ -2,7 +2,7 @@
 <suite parallel="false" name="Nopcommer">
   <test name="Run on FIREFOX">
     <classes>
-      <class name="com.nopcommerce.users.User_01_Register"/>
+      <class name="com.nopcommerce.users.Level_01_Repeat_Yourself"/>
     </classes>
   </test> 
 </suite> 
